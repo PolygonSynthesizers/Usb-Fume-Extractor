@@ -31,13 +31,13 @@ About the length : the shorter is the better.
 Some references :
 
 U1 is a NE556 in DIP14 package
-The inductor is a 10 uH Fastron 242408 FPS            ]  
-U2 is a LM2731 XMF in SOT-23 package			            ]
-R1 and R2 are 0805					                          ]
-CF1 is 0805						                                ]       SMDs
-C1 is 1210						                                ]
-C2 is 1812						                                ]
-D1 is .5 amps Schottky Rectifier in SOD-123 package   ]
+The inductor is a 10 uH Fastron 242408 FPS
+U2 is a LM2731 XMF in SOT-23 package
+R1 and R2 are 0805
+CF1 is 0805
+C1 is 1210
+C2 is 1812
+D1 is .5 amps Schottky Rectifier in SOD-123 package
 All through hole resistors are 1/4W
 All through hole capacitors are 5mm pitch film capacitors
 Except for C7 which is a 2mm pitch aluminium electrolytic.
