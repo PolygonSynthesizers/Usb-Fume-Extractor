@@ -30,8 +30,7 @@ About the length : the shorter is the better.
 
 Some references :
 
-U1 is a NE556 in DIP14 package
-
+U1 is a NE556 in DIP14 package /d
 The inductor is a 10 uH Fastron 242408 FPS
 
 U2 is a LM2731 XMF in SOT-23 package
